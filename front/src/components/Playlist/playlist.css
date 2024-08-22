@@ -1,0 +1,21 @@
+.playlist-item {
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    gap: 8px;
+    background-color: dimgray;
+    border-radius: 10px;
+    align-items: center;
+    cursor: pointer;
+}
+
+.playlist-name {
+    font-size: 1.4rem;
+    font-weight: 800;
+    color: white;
+    text-align: start;
+}
+
+.selected {
+    border: 2px solid lime;
+}

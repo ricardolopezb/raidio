@@ -1,0 +1,23 @@
+.title {
+    padding: 12px;
+    font-size: 2.3rem;
+    font-weight: 800;
+    color: white;
+}
+
+.status-info {
+    padding: 16px;
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: white;
+    border: 1px solid limegreen;
+    border-radius: 20px;
+}
+
+.home-page-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 10px;
+}
+

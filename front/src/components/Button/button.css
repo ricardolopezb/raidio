@@ -1,0 +1,13 @@
+.login-button {
+    all: unset;
+    background-color: limegreen;
+    width: 40%;
+    border-radius: 10px;
+    padding: 12px;
+    font-weight: 700;
+    text-align: center;
+    font-family: "Mona Sans", "Mona Sans Header Fallback", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-feature-settings: unset;
+    letter-spacing: -0.03em;
+    cursor: pointer;
+}

@@ -1,0 +1,8 @@
+.playlist-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-gap: 1rem;
+    max-height: 600px; /* Fixed height for the container */
+    overflow-y: auto; /* Enable vertical scrolling */
+}
+
